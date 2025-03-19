@@ -41,6 +41,6 @@ Het project ondersteunt de volgende commando's via de seriële monitor:
 - **Schrijven/lezen mislukt?** Probeer een andere RFID-tag.
 
 ## Auteur
-Dit project is ontwikkeld door **Yarno**.
+Dit project is ontwikkeld door **@thijsdewitt en @yarno-stevens**.
 
 Veel succes met je RFID-project! 🚀
